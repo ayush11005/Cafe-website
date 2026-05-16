@@ -1,0 +1,6 @@
+{
+  "name": "Route30 Café & Restaurant",
+  "description": "Premium luxury café and restaurant experience with a modern Gen-Z vibe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
